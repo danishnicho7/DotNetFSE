@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxy_patern", "proxy_patern.csproj", "{5D0EDF09-5380-BF0B-8C09-DA5D4A57DF21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0EDF09-5380-BF0B-8C09-DA5D4A57DF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0EDF09-5380-BF0B-8C09-DA5D4A57DF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0EDF09-5380-BF0B-8C09-DA5D4A57DF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0EDF09-5380-BF0B-8C09-DA5D4A57DF21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B3EA879-9EAB-4D70-A406-DAC1D3EDBD0D}
+	EndGlobalSection
+EndGlobal

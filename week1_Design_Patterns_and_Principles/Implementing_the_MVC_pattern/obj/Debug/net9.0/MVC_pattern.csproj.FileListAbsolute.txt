@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\ddd\MVC_pattern\bin\Debug\net9.0\MVC_pattern.exe
+C:\Users\DELL\Desktop\ddd\MVC_pattern\bin\Debug\net9.0\MVC_pattern.deps.json
+C:\Users\DELL\Desktop\ddd\MVC_pattern\bin\Debug\net9.0\MVC_pattern.runtimeconfig.json
+C:\Users\DELL\Desktop\ddd\MVC_pattern\bin\Debug\net9.0\MVC_pattern.dll
+C:\Users\DELL\Desktop\ddd\MVC_pattern\bin\Debug\net9.0\MVC_pattern.pdb
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.dll
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\refint\MVC_pattern.dll
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.pdb
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\MVC_pattern.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ddd\MVC_pattern\obj\Debug\net9.0\ref\MVC_pattern.dll

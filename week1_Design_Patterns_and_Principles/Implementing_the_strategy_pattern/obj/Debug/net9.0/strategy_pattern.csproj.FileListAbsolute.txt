@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\ddd\strategy_pattern\bin\Debug\net9.0\strategy_pattern.exe
+C:\Users\DELL\Desktop\ddd\strategy_pattern\bin\Debug\net9.0\strategy_pattern.deps.json
+C:\Users\DELL\Desktop\ddd\strategy_pattern\bin\Debug\net9.0\strategy_pattern.runtimeconfig.json
+C:\Users\DELL\Desktop\ddd\strategy_pattern\bin\Debug\net9.0\strategy_pattern.dll
+C:\Users\DELL\Desktop\ddd\strategy_pattern\bin\Debug\net9.0\strategy_pattern.pdb
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.dll
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\refint\strategy_pattern.dll
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.pdb
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\strategy_pattern.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ddd\strategy_pattern\obj\Debug\net9.0\ref\strategy_pattern.dll
