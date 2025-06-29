@@ -1,37 +1,58 @@
-# Exercise 1: Create a Stored Procedure
+# Exercise: Create a Stored Procedure
 
 ## Goal
-Create a SQL stored procedure to:
-1. Retrieve employee details by department.
-2. Insert a new employee into the `Employees` table.
+
+To create and use a stored procedure that inserts employee records into the database using structured parameters.
 
 ---
 
 ## Scenario
 
-As part of an HR management system, we want to:
-- Fetch a list of employees working in a particular department.
-- Insert new employee data through a reusable stored procedure.
+A company needs to manage employee data efficiently. To ensure structured data entry and enforce schema constraints, you are tasked with:
 
-These tasks are commonly performed using **parameterized stored procedures**, which help modularize logic and prevent SQL injection.
+- Creating `Departments` and `Employees` tables.
+- Writing a stored procedure named `sp_InsertEmployee` to insert employee data.
+- Verifying the inserted data by querying the `Employees` table.
 
 ---
 
-## Steps Performed
+## Steps Taken
 
-### 1️⃣ Defined Stored Procedure to Retrieve Employees by Department
+### 1. Create the Database
 
-- Procedure Name: `sp_GetEmployeesByDepartment`
-- Input Parameter: `@DepartmentID INT`
-- Logic: Fetch all employees belonging to the given department ID.
+Created a new database named `EmployeeDB` to isolate the employee management system.
 
-```sql
-CREATE PROCEDURE sp_GetEmployeesByDepartment
-    @DepartmentID INT
-AS
-BEGIN
-    SELECT *
-    FROM Employees
-    WHERE DepartmentID = @DepartmentID;
-END;
-GO
+### 2. Define the Tables
+
+- **Departments**
+  - Columns: `DepartmentID` (Primary Key), `DepartmentName`
+- **Employees**
+  - Columns: `EmployeeID` (Primary Key, auto-increment), `FirstName`, `LastName`, `DepartmentID` (FK), `Salary`, `JoinDate`
+
+### 3. Insert Sample Departments
+
+Inserted sample department records to enable foreign key references from the `Employees` table.
+
+### 4. Create the Stored Procedure
+
+Defined `sp_InsertEmployee` to accept parameters like name, department, salary, and join date, and insert them into the `Employees` table.
+
+### 5. Execute the Stored Procedure
+
+Inserted two sample employees:
+- **Alice Johnson**, Engineering, ₹80,000, Joined on 2023-03-01
+- **Bob Smith**, Engineering, ₹75,000, Joined on 2022-07-15
+
+### 6. Query the `Employees` Table
+
+Verified that both employees were successfully added.
+
+### Output
+![output1](https://github.com/user-attachments/assets/1be75bcf-a9f8-4a39-a971-476d31807e30)
+![output2](https://github.com/user-attachments/assets/56a578e6-f9aa-486b-95b4-12531cb3364a)
+![output3](https://github.com/user-attachments/assets/311a481e-98ef-41a4-b5c2-d7ca8bc956bc)
+
+
+
+
+
