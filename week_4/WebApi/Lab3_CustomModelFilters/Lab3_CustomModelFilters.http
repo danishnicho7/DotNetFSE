@@ -1,0 +1,6 @@
+@Lab3_CustomModelFilters_HostAddress = http://localhost:5145
+
+GET {{Lab3_CustomModelFilters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
