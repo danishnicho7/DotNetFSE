@@ -58,13 +58,9 @@ https://localhost:5269/weatherforecast
 
 
 ---
-
+```
 ##  Output
+![output1](https://github.com/user-attachments/assets/52513a77-296e-4f3e-85cc-233ac880d5a5)
+![output2](https://github.com/user-attachments/assets/cc043d86-2c8f-4bd5-b2d5-fde21f8aa07c)
 
-### GET Output Screenshot:
 
-![GET_Output](output1.jpg)
-
-###  POST Output Screenshot:
-
-![POST_Output](output2.jpg)
