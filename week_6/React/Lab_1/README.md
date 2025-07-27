@@ -14,7 +14,6 @@ To set up a React environment using `create-react-app` and display a welcome mes
    Selected `Y` to confirm.
 
 3. **Navigated to React Labs Directory**  
-   `cd C:\Users\DELL\Desktop\DotNetFSE\week_6\React`
 
 4. **Created React App**  
    `npx create-react-app lab_1`
