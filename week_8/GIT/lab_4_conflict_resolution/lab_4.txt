@@ -1,0 +1,3 @@
+- Explain how to resolve the conflict during merge.
+- Hands-on ID: Git-T03-HOL_001
+- Git and P4Merge installed (optional).
