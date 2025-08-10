@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\DELL\Desktop\DotNetFSE\week_2\NUnit_and_Moq\Write_Testable_Code_with_Moq\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
